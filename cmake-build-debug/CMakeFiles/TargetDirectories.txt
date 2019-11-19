@@ -1,0 +1,3 @@
+C:/Users/IThomas1/CLionProjects/winPercentageCalc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/IThomas1/CLionProjects/winPercentageCalc/cmake-build-debug/CMakeFiles/winPercentageCalc.dir
+C:/Users/IThomas1/CLionProjects/winPercentageCalc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
